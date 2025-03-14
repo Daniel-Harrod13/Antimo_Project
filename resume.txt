@@ -1,0 +1,57 @@
+DANIEL HARROD
+Applied AI/ML Professional
+-----------------------------------------------------------------------------------------------------------------
+GitHub: github.com/danielharrod | LinkedIn: linkedin.com/in/danielharrod | Email: Harrod@arizona.edu
+
+PROFESSIONAL SUMMARY
+-----------------------------------------------------------------------------------------------------------------
+Results-driven AI/ML professional with expertise in machine learning model development, predictive analytics, and data visualization. Demonstrated success implementing deep learning frameworks for computer vision and NLP applications. Strong background in time series forecasting, statistical analysis, and interactive dashboard development. Seeking an AI Analyst position to leverage technical expertise in driving data-informed business decisions in commodity trading markets.
+
+EDUCATION
+-----------------------------------------------------------------------------------------------------------------
+Bachelor of Applied Science: Applied Artificial Intelligence                                    Expected: Dec 2023
+University of Arizona College of Science and Technology
+• Dean's Excellence Scholarship Recipient
+
+
+Data Analytics Programming Bootcamp Certificate                                                      Sep 2021 – March 2022
+University of Arizona
+
+TECHNICAL SKILLS
+-----------------------------------------------------------------------------------------------------------------
+• Programming Languages: Python, R, SQL
+• Machine Learning & AI: TensorFlow, PyTorch, Keras, LSTM, ARIMA, Prophet, NLP, Computer Vision
+• Data Analysis: Statistical Testing, Time Series Analysis, Exploratory Data Analysis, Feature Engineering
+• Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly, D3/Java, Streamlit
+• Database Management: SQL, SQLite, pgAdmin, MongoDB
+• Development Tools: Visual Studio Code, Jupyter Notebook, Git, Command Line Interface
+• Cloud Platforms: AWS (S3, EC2, SageMaker)
+
+PROFESSIONAL EXPERIENCE
+-----------------------------------------------------------------------------------------------------------------
+Student Researcher | Vision, Systems and Intelligence Lab                                   July 2024 – Present
+University of Arizona
+• Conduct research using deep learning frameworks for image detection and classification tasks
+• Implement and optimize computer vision models using SpikingJelly framework, achieving real-time object detection
+• Develop and fine-tune Large Language Models (LLMs) on healthcare datasets for domain-specific applications
+• Create efficient data pipelines for processing and analyzing large-scale image datasets
+
+Data Science Intern | School of Medicine                                                  May 2022 – August 2022
+University of Alabama Birmingham
+• Developed an AI-powered transcription algorithm that improved information retrieval efficiency by 40%
+• Processed and analyzed 12+ years of physician and researcher recordings using Python data science stack
+• Built interactive dashboards using Plotly, Seaborn, and R Shiny for COVID-19 drug treatment data
+• Presented findings to clinical research teams, enabling data-driven decision making for healthcare professionals
+
+PROJECTS
+-----------------------------------------------------------------------------------------------------------------
+Commodity Market Price Prediction & Analysis Platform
+• Designed and implemented an end-to-end machine learning pipeline for predicting commodity price movements
+  and analyzing market trends for trading decisions
+• Integrated multiple time series forecasting models (ARIMA, Prophet, LSTM) to provide accurate price predictions
+  with quantifiable performance metrics
+• Developed data collection modules to automatically gather and preprocess historical price data from financial APIs
+• Created an interactive dashboard using Streamlit and Plotly that visualizes price trends, technical indicators,
+  and model forecasts
+• Implemented a command-line interface for data collection, model training, and dashboard deployment,
+  demonstrating software engineering best practices
