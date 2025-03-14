@@ -1,9 +1,20 @@
 # Core dependencies
-setuptools>=68.0.0
-wheel>=0.40.0
+setuptools==68.0.0
+wheel==0.40.0
+pip==23.0.1
 
-# Essential visualization packages
+# Essential visualization packages - must be installed first
 matplotlib==3.7.1
+cycler==0.11.0
+fonttools==4.38.0
+kiwisolver==1.4.4
+packaging==23.0
+pillow==9.4.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+six==1.16.0
+
+# Data visualization
 seaborn==0.12.2
 plotly==5.14.1
 
