@@ -1,0 +1,7 @@
+2025-03-14 09:53:13,645 - __main__ - INFO - Directory setup completed
+2025-03-14 09:53:13,941 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-14 09:53:55,958 - src.model_training.time_series_models - INFO - Initialized TimeSeriesModels with models directory: models
+2025-03-14 09:53:55,958 - __main__ - INFO - Training models for commodities: ['Gold']
+2025-03-14 09:53:55,958 - __main__ - INFO - Processing Gold
+2025-03-14 09:53:55,958 - __main__ - WARNING - Data file not found for Gold: data/processed/gold_processed.csv
+2025-03-14 09:53:55,958 - __main__ - INFO - Model training completed successfully

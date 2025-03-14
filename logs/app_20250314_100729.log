@@ -1,0 +1,27 @@
+2025-03-14 10:07:29,570 - __main__ - INFO - Directory setup completed
+2025-03-14 10:07:29,931 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-14 10:07:30,179 - __main__ - INFO - Collecting data for symbols: None, period: 5y
+2025-03-14 10:07:30,179 - src.data_processing.data_collector - INFO - Initialized CommodityDataCollector with data directory: data
+2025-03-14 10:07:30,179 - src.data_processing.data_collector - INFO - Using sample data generation instead of Yahoo Finance API
+2025-03-14 10:07:30,182 - src.data_processing.data_collector - INFO - Generating sample data for Gold
+2025-03-14 10:07:30,204 - src.data_processing.data_collector - INFO - Saved sample data for Gold to data/raw/gold_1d.csv
+2025-03-14 10:07:30,204 - src.data_processing.data_collector - INFO - Generating sample data for Silver
+2025-03-14 10:07:30,220 - src.data_processing.data_collector - INFO - Saved sample data for Silver to data/raw/silver_1d.csv
+2025-03-14 10:07:30,220 - src.data_processing.data_collector - INFO - Generating sample data for Crude Oil
+2025-03-14 10:07:30,236 - src.data_processing.data_collector - INFO - Saved sample data for Crude Oil to data/raw/crude_oil_1d.csv
+2025-03-14 10:07:30,236 - src.data_processing.data_collector - INFO - Generating sample data for Natural Gas
+2025-03-14 10:07:30,252 - src.data_processing.data_collector - INFO - Saved sample data for Natural Gas to data/raw/natural_gas_1d.csv
+2025-03-14 10:07:30,252 - src.data_processing.data_collector - INFO - Generating sample data for Copper
+2025-03-14 10:07:30,268 - src.data_processing.data_collector - INFO - Saved sample data for Copper to data/raw/copper_1d.csv
+2025-03-14 10:07:30,268 - src.data_processing.data_collector - INFO - Preprocessing data for Gold
+2025-03-14 10:07:30,286 - src.data_processing.data_collector - INFO - Saved processed data for Gold to data/processed/gold_processed.csv
+2025-03-14 10:07:30,286 - src.data_processing.data_collector - INFO - Preprocessing data for Silver
+2025-03-14 10:07:30,302 - src.data_processing.data_collector - INFO - Saved processed data for Silver to data/processed/silver_processed.csv
+2025-03-14 10:07:30,303 - src.data_processing.data_collector - INFO - Preprocessing data for Crude Oil
+2025-03-14 10:07:30,318 - src.data_processing.data_collector - INFO - Saved processed data for Crude Oil to data/processed/crude_oil_processed.csv
+2025-03-14 10:07:30,319 - src.data_processing.data_collector - INFO - Preprocessing data for Natural Gas
+2025-03-14 10:07:30,334 - src.data_processing.data_collector - INFO - Saved processed data for Natural Gas to data/processed/natural_gas_processed.csv
+2025-03-14 10:07:30,334 - src.data_processing.data_collector - INFO - Preprocessing data for Copper
+2025-03-14 10:07:30,354 - src.data_processing.data_collector - INFO - Saved processed data for Copper to data/processed/copper_processed.csv
+2025-03-14 10:07:30,388 - __main__ - INFO - Data collection summary: {'commodities': [{'name': 'Crude Oil', 'records': 1777, 'start_date': '2020-05-03', 'end_date': '2025-03-14', 'features': ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'MA_7', 'MA_21', 'MA_50', 'Returns', 'Volatility_21', 'Momentum_14']}, {'name': 'Silver', 'records': 1777, 'start_date': '2020-05-03', 'end_date': '2025-03-14', 'features': ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'MA_7', 'MA_21', 'MA_50', 'Returns', 'Volatility_21', 'Momentum_14']}, {'name': 'Copper', 'records': 1777, 'start_date': '2020-05-03', 'end_date': '2025-03-14', 'features': ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'MA_7', 'MA_21', 'MA_50', 'Returns', 'Volatility_21', 'Momentum_14']}, {'name': 'Natural Gas', 'records': 1777, 'start_date': '2020-05-03', 'end_date': '2025-03-14', 'features': ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'MA_7', 'MA_21', 'MA_50', 'Returns', 'Volatility_21', 'Momentum_14']}, {'name': 'Gold', 'records': 1777, 'start_date': '2020-05-03', 'end_date': '2025-03-14', 'features': ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', 'MA_7', 'MA_21', 'MA_50', 'Returns', 'Volatility_21', 'Momentum_14']}], 'total_records': 8885, 'date_range': {'earliest': '2020-05-03', 'latest': '2025-03-14'}}
+2025-03-14 10:07:30,388 - __main__ - INFO - Data collection completed successfully

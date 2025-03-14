@@ -1,0 +1,18 @@
+2025-03-14 09:52:28,300 - __main__ - INFO - Directory setup completed
+2025-03-14 09:52:39,339 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-14 09:52:42,585 - __main__ - INFO - Collecting data for symbols: ['Gold', 'Crude Oil'], period: 5y
+2025-03-14 09:52:42,585 - src.data_processing.data_collector - INFO - Initialized CommodityDataCollector with data directory: data
+2025-03-14 09:52:42,585 - src.data_processing.data_collector - INFO - Fetching data for GC=F
+2025-03-14 09:52:43,107 - yfinance - ERROR - Failed to get ticker 'GC=F' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 09:52:43,212 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 09:52:43,212 - yfinance - ERROR - ['GC=F']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 09:52:43,212 - src.data_processing.data_collector - WARNING - No data retrieved for GC=F
+2025-03-14 09:52:43,212 - src.data_processing.data_collector - INFO - Fetching data for CL=F
+2025-03-14 09:52:43,337 - yfinance - ERROR - Failed to get ticker 'CL=F' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 09:52:43,435 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 09:52:43,435 - yfinance - ERROR - ['CL=F']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 09:52:43,435 - src.data_processing.data_collector - WARNING - No data retrieved for CL=F
+2025-03-14 09:52:43,435 - __main__ - INFO - Data collection summary: {'commodities': [], 'total_records': 0, 'date_range': {}}
+2025-03-14 09:52:43,435 - __main__ - INFO - Data collection completed successfully

@@ -1,0 +1,54 @@
+2025-03-14 10:05:00,567 - __main__ - INFO - Directory setup completed
+2025-03-14 10:05:01,457 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-14 10:05:01,892 - __main__ - INFO - Collecting data for symbols: None, period: 5y
+2025-03-14 10:05:01,893 - src.data_processing.data_collector - INFO - Initialized CommodityDataCollector with data directory: data
+2025-03-14 10:05:01,893 - src.data_processing.data_collector - INFO - Fetching data for GLD
+2025-03-14 10:05:02,026 - yfinance - ERROR - Failed to get ticker 'GLD' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:02,130 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:02,130 - yfinance - ERROR - ['GLD']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:02,130 - src.data_processing.data_collector - WARNING - No data retrieved for GLD
+2025-03-14 10:05:02,130 - src.data_processing.data_collector - INFO - Fetching data for SLV
+2025-03-14 10:05:02,237 - yfinance - ERROR - Failed to get ticker 'SLV' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:02,357 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:02,358 - yfinance - ERROR - ['SLV']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:02,358 - src.data_processing.data_collector - WARNING - No data retrieved for SLV
+2025-03-14 10:05:02,358 - src.data_processing.data_collector - INFO - Fetching data for USO
+2025-03-14 10:05:02,483 - yfinance - ERROR - Failed to get ticker 'USO' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:02,596 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:02,596 - yfinance - ERROR - ['USO']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:02,597 - src.data_processing.data_collector - WARNING - No data retrieved for USO
+2025-03-14 10:05:02,597 - src.data_processing.data_collector - INFO - Fetching data for UNG
+2025-03-14 10:05:02,694 - yfinance - ERROR - Failed to get ticker 'UNG' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:02,812 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:02,813 - yfinance - ERROR - ['UNG']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:02,813 - src.data_processing.data_collector - WARNING - No data retrieved for UNG
+2025-03-14 10:05:02,813 - src.data_processing.data_collector - INFO - Fetching data for CPER
+2025-03-14 10:05:02,914 - yfinance - ERROR - Failed to get ticker 'CPER' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:03,030 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:03,030 - yfinance - ERROR - ['CPER']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:03,030 - src.data_processing.data_collector - WARNING - No data retrieved for CPER
+2025-03-14 10:05:03,031 - src.data_processing.data_collector - INFO - Fetching data for DBA
+2025-03-14 10:05:03,127 - yfinance - ERROR - Failed to get ticker 'DBA' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:03,245 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:03,245 - yfinance - ERROR - ['DBA']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:03,246 - src.data_processing.data_collector - WARNING - No data retrieved for DBA
+2025-03-14 10:05:03,246 - src.data_processing.data_collector - INFO - Fetching data for DBC
+2025-03-14 10:05:03,347 - yfinance - ERROR - Failed to get ticker 'DBC' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:03,460 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:03,460 - yfinance - ERROR - ['DBC']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:03,461 - src.data_processing.data_collector - WARNING - No data retrieved for DBC
+2025-03-14 10:05:03,461 - src.data_processing.data_collector - INFO - Fetching data for DBP
+2025-03-14 10:05:03,557 - yfinance - ERROR - Failed to get ticker 'DBP' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-14 10:05:03,661 - yfinance - ERROR - 
+1 Failed download:
+2025-03-14 10:05:03,661 - yfinance - ERROR - ['DBP']: Exception('%ticker%: No price data found, symbol may be delisted (period=5y)')
+2025-03-14 10:05:03,662 - src.data_processing.data_collector - WARNING - No data retrieved for DBP
+2025-03-14 10:05:03,662 - __main__ - INFO - Data collection summary: {'commodities': [], 'total_records': 0, 'date_range': {}}
+2025-03-14 10:05:03,662 - __main__ - INFO - Data collection completed successfully
