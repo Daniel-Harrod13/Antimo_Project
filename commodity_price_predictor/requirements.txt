@@ -1,19 +1,14 @@
-# Core visualization and data processing
-matplotlib>=3.7.1
-numpy>=1.24.3
-pandas>=1.5.3
-seaborn>=0.12.2
-plotly>=5.14.1
-
-# Web and Dashboard
-streamlit>=1.22.0
-
-# Machine Learning and Time Series
-scikit-learn>=1.2.2
-statsmodels>=0.13.5
-prophet>=1.1.4
-pmdarima>=2.0.3
-tensorflow-cpu>=2.12.0
-
-# Utilities
-joblib>=1.2.0 
+setuptools==65.5.1
+wheel==0.38.4
+matplotlib==3.5.3
+numpy==1.23.5
+pandas==1.5.3
+seaborn==0.12.2
+plotly==5.13.1
+streamlit==1.22.0
+scikit-learn==1.2.2
+statsmodels==0.13.5
+prophet==1.1.4
+pmdarima==2.0.3
+tensorflow-cpu==2.11.0
+joblib==1.2.0 
