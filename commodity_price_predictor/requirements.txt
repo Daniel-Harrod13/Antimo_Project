@@ -1,7 +1,5 @@
-setuptools==65.5.1
-wheel==0.38.4
 matplotlib==3.5.3
-numpy==1.23.5
+numpy==1.21.6
 pandas==1.5.3
 seaborn==0.12.2
 plotly==5.13.1
